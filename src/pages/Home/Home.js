@@ -6,7 +6,7 @@ class Home extends Component {
         return(
             <div>
                 <h1>Página Home </h1>
-                <Link to="/react2/public/sobre">Ir para a página Sobre</Link>
+                <Link to="/sobre">Ir para a página Sobre</Link>
 
                 <hr/>
             </div>
